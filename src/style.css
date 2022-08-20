@@ -1,3 +1,17 @@
+:root {
+    --clr-bg-light: hsla(0, 0%, 85%, 1);
+    --clr-bg-dark: hsla(210, 5%, 16%, 1);
+
+    --clr-txt-light: hsla(0, 0%, 100%, 1);
+    --clr-txt-dark: hsla(210, 5%, 16%, 1);
+
+    --clr-btn-blue: hsla(210, 80%, 33%, 1);
+    --clr-btn-green: hsla(158, 80%, 33%, 1);
+
+    --clr-icon-ff: hsla(29, 98%, 76%, 1);
+    --clr-icon-gh: hsla(119, 97%, 76%, 1);
+}
+
 /* Box sizing rules */
 *,
 *::before,
