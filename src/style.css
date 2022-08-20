@@ -10,6 +10,16 @@
 
     --clr-icon-ff: hsla(29, 98%, 76%, 1);
     --clr-icon-gh: hsla(119, 97%, 76%, 1);
+
+    --ff-primary: "Lato", sans-serif;
+
+    --fw-normal: 400;
+    --fw-bold: 700;
+
+    --fs-large: 8rem;
+    --fs-semi-large: 6rem;
+    --fs-medium: 4rem;
+    --fs-small: 3rem;
 }
 
 /* Font Faces */
